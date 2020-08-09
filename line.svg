@@ -1,0 +1,7 @@
+<svg width="400px" height="400px" xmlns="http://www.w3.org/2000/svg">
+	<!--<line x1="0" y1="0" x2="550" y2="70" stroke="rgb(0,0,256)" stroke-width="5px"/>-->
+	
+	<rect height="200px" width="200px" fill="pink" x="80" y="20" stroke="red" stroke-width="10px" rx="100px" ry="100px"/>sorry no svg
+	<circle cx="100" cy="60" r="50" fill="lightblue" stroke-width="3px" stroke="red"/>Sorrry svg is not supported
+	
+</svg>
